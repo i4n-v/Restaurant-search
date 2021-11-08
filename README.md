@@ -1,4 +1,4 @@
-#  ProductList
+#  restaurant-search
 
 ## STARTING
 
